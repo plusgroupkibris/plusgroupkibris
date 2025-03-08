@@ -2,13 +2,6 @@
 
 **Galerim Plus** aracılığıyla Kıbrıs'taki kullanıcılar, galerilerini yönetebilir, ilanlarını listeleyebilir ve müşteri kitlesine daha iyi ulaşabilirler.
 
-## 🛠 Teknolojiler
-
-- **Frontend:** Next.js, React, TailwindCSS
-- **Backend:** .NET Core, Firebase Auth
-- **Veritabanı:** Firestore, Upstash Redis
-- **Dağıtım:** Vercel
-
 ## 🎯 Özellikler
 
 - **Galeri Profili:** Kullanıcılar, kendi galerilerini oluşturabilir.
