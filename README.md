@@ -8,7 +8,6 @@
 - **İlan Yönetimi:** Araç ilanları ekleme, düzenleme ve silme.
 - **Paket Sistemi:** Kullanıcılar, premium paketlerle ek avantajlar elde edebilir.
 - **Subdomain Desteği:** Kullanıcılar, özel subdomain alarak galerilerini özelleştirebilir.
-- **Ödeme ve Onay Sistemi:** Stripe ve IBAN üzerinden ödeme yapma ve dekont yükleme.
 - **Firma Yönetimi:** Kullanıcılar, ek hizmet firmalarını platforma ekleyebilir.
 
 ## 📱 Mobil Uygulama
