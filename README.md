@@ -21,4 +21,4 @@ Galerim Plus, gelişmiş araç listing ve yönetim özellikleri ile Kıbrıs'tak
 
 ## 🔗 İletişim
 
-Web sitesi: [GalerimPlus.com](http://www.galerimplus.com)
+Web sitesi: [galerimplus.com](http://www.galerimplus.com)
