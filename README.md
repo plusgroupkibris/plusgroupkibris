@@ -1,16 +1,31 @@
-## Hi there 👋
+# Galerim Plus
 
-<!--
-**galerim-plus-com/galerim-plus-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Galerim Plus** aracılığıyla Kıbrıs'taki kullanıcılar, galerilerini yönetebilir, ilanlarını listeleyebilir ve müşteri kitlesine daha iyi ulaşabilirler.
 
-Here are some ideas to get you started:
+## 🛠 Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Next.js, React, TailwindCSS
+- **Backend:** .NET Core, Firebase Auth
+- **Veritabanı:** Firestore, Upstash Redis
+- **Dağıtım:** Vercel
+
+## 🎯 Özellikler
+
+- **Galeri Profili:** Kullanıcılar, kendi galerilerini oluşturabilir.
+- **İlan Yönetimi:** Araç ilanları ekleme, düzenleme ve silme.
+- **Paket Sistemi:** Kullanıcılar, premium paketlerle ek avantajlar elde edebilir.
+- **Subdomain Desteği:** Kullanıcılar, özel subdomain alarak galerilerini özelleştirebilir.
+- **Ödeme ve Onay Sistemi:** Stripe ve IBAN üzerinden ödeme yapma ve dekont yükleme.
+- **Firma Yönetimi:** Kullanıcılar, ek hizmet firmalarını platforma ekleyebilir.
+
+## 📱 Mobil Uygulama
+
+**Galerim Plus** ayrıca React Native ile mobil uyumlu bir uygulama olarak sunulacak. Mobil uygulama ile kullanıcılar, araçlarını yönetebilir, ilanlarını listeleyebilir ve daha fazla kişiye ulaşabilirler.
+
+## 💡 Modern Araç Listing Sistemi
+
+Galerim Plus, gelişmiş araç listing ve yönetim özellikleri ile Kıbrıs'taki kullanıcılar için modern bir oto galeri platformu sunar. Bu platformda kullanıcılar araçlarını kolayca listeleyebilir, düzenleyebilir ve premium paketler ile ek avantajlar elde edebilirler.
+
+## 🔗 İletişim
+
+Web sitesi: [GalerimPlus.com](http://www.galerimplus.com)
