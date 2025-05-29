@@ -6,27 +6,26 @@ Plus Group Kıbrıs, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) için özel dijital
 
 Aşağıda Plus Group çatısı altında KKTC’ye özel geliştirdiğimiz başlıca platformlar yer almaktadır:
 
-- **GalerimPlus**  
+- **GalerimPlus (v1 Beta)**  
   KKTC’de araba satış ilanları ve ilgili hizmetlerin yer aldığı kapsamlı araç galeri platformu.
 
 - **EmlakPlus**  
-  Emlak alım, satım ve kiralama işlemleri için kullanıcı dostu bir platform.
+  Emlak alım, satım ve kiralama işlemleri için kullanıcı dostu bir platform (demo aşamasında).
 
 - **HizmetPlus**  
-  Çeşitli hizmet sağlayıcılarının yer aldığı kapsamlı hizmet platformu.
+  Çeşitli hizmet sağlayıcılarının yer aldığı kapsamlı hizmet platformu (demo aşamasında).
 
 - **KariyerPlus**  
-  KKTC’de iş arayanlar ve işverenler için kariyer platformu.
+  KKTC’de iş arayanlar ve işverenler için kariyer platformu (demo aşamasında).
 
 - **MarketPlus**  
-  Satıcılar ile alıcılar arasında kolay alışveriş imkanı sunan e-ticaret platformu.
+  Satıcılar ile alıcılar arasında kolay alışveriş imkanı sunan e-ticaret platformu (demo aşamasında).
 
 - **QR Menü Plus**  
-  Restoranlar için QR menü ve sipariş yönetim sistemi.
+  Restoranlar için QR menü ve sipariş yönetim sistemi (demo aşamasında).
 
 - **YemekPlus**  
-  Restoranlar ve yemek siparişleri için kapsamlı bir platform.
-
+  Restoranlar ve yemek siparişleri için kapsamlı bir platform (demo aşamasında).
 ---
 
 # GalerimPlus
