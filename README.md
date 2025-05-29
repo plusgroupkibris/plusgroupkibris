@@ -1,23 +1,71 @@
-# Galerim Plus
+# Plus Group Kıbrıs (plusgroupkibris.com)
 
-**Galerim Plus** aracılığıyla Kıbrıs'taki kullanıcılar, galerilerini yönetebilir, ilanlarını listeleyebilir ve müşteri kitlesine daha iyi ulaşabilirler.
+Plus Group Kıbrıs, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) için özel dijital çözümler ve platformlar geliştiren bir teknoloji grubudur. KKTC’deki farklı sektörlerin ihtiyaçlarına yönelik entegre ve kullanıcı dostu uygulamalar sunar.
+
+## KKTC Çözümleri ve Ürünlerimiz
+
+Aşağıda Plus Group çatısı altında KKTC’ye özel geliştirdiğimiz başlıca platformlar yer almaktadır:
+
+- **GalerimPlus**  
+  KKTC’de araba satış ilanları ve ilgili hizmetlerin yer aldığı kapsamlı araç galeri platformu.
+
+- **EmlakPlus**  
+  Emlak alım, satım ve kiralama işlemleri için kullanıcı dostu bir platform.
+
+- **HizmetPlus**  
+  Çeşitli hizmet sağlayıcılarının yer aldığı kapsamlı hizmet platformu.
+
+- **KariyerPlus**  
+  KKTC’de iş arayanlar ve işverenler için kariyer platformu.
+
+- **MarketPlus**  
+  Satıcılar ile alıcılar arasında kolay alışveriş imkanı sunan e-ticaret platformu.
+
+- **QR Menü Plus**  
+  Restoranlar için QR menü ve sipariş yönetim sistemi.
+
+- **YemekPlus**  
+  Restoranlar ve yemek siparişleri için kapsamlı bir platform.
+
+---
+
+# GalerimPlus
+
+**GalerimPlus** ile Kıbrıs’taki kullanıcılar galerilerini kolayca yönetebilir, ilanlarını listeleyebilir ve müşteri kitlesine daha etkin ulaşabilirler.
 
 ## 🎯 Özellikler
 
-- **Galeri Profili:** Kullanıcılar, kendi galerilerini oluşturabilir.
-- **İlan Yönetimi:** Araç ilanları ekleme, düzenleme ve silme.
-- **Paket Sistemi:** Kullanıcılar, premium paketlerle ek avantajlar elde edebilir.
-- **Subdomain Desteği:** Kullanıcılar, özel subdomain alarak galerilerini özelleştirebilir.
-- **Firma Yönetimi:** Kullanıcılar, ek hizmet firmalarını platforma ekleyebilir.
+- **Galeri Profili:** Kullanıcılar kendi galerilerini oluşturabilir.  
+- **İlan Yönetimi:** Araç ilanları ekleme, düzenleme ve silme işlemleri yapılabilir.  
+- **Paket Sistemi:** Premium paketlerle ek avantajlar elde edilebilir.  
+- **Subdomain Desteği:** Kullanıcılar özel subdomain alarak galerilerini özelleştirebilir.  
+- **Firma Yönetimi:** Ek hizmet firmaları platforma eklenebilir.
 
 ## 📱 Mobil Uygulama
 
-**Galerim Plus** ayrıca React Native ile mobil uyumlu bir uygulama olarak sunulacak. Mobil uygulama ile kullanıcılar, araçlarını yönetebilir, ilanlarını listeleyebilir ve daha fazla kişiye ulaşabilirler.
+GalerimPlus, React Native ile geliştirilmiş mobil uygulamasıyla kullanıcıların araçlarını yönetmelerine, ilanlarını listelemelerine ve daha geniş bir müşteri kitlesine ulaşmalarına olanak tanır.
 
-## 💡 Modern Araç Listing Sistemi
+## 💡 Modern Araç Listeleme Sistemi
 
-Galerim Plus, gelişmiş araç listing ve yönetim özellikleri ile Kıbrıs'taki kullanıcılar için modern bir oto galeri platformu sunar. Bu platformda kullanıcılar araçlarını kolayca listeleyebilir, düzenleyebilir ve premium paketler ile ek avantajlar elde edebilirler.
+Gelişmiş araç listeleme ve yönetim özellikleri ile KKTC’de modern bir oto galeri deneyimi sunar.
 
 ## 🔗 İletişim
 
 Web sitesi: [galerimplus.com](http://www.galerimplus.com)
+
+---
+
+## Diğer Platformlarımız
+
+- **EmlakPlus:** Emlak alım, satım ve kiralama işlemleri için kullanıcı dostu platform.  
+- **HizmetPlus:** Çeşitli hizmet sağlayıcılarını bir araya getiren kapsamlı platform.  
+- **KariyerPlus:** KKTC’de iş arayanlar ve işverenler için kariyer platformu.  
+- **MarketPlus:** Kolay alışveriş imkanı sunan e-ticaret platformu.  
+- **QR Menü Plus:** Restoranlar için QR menü ve sipariş yönetim sistemi.  
+- **YemekPlus:** Restoranlar ve yemek siparişleri için kapsamlı platform.
+
+---
+
+## Lisans
+
+[Buraya lisans bilgisi eklenebilir]
