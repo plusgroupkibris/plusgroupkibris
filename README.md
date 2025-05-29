@@ -62,9 +62,3 @@ Web sitesi: [galerimplus.com](http://www.galerimplus.com)
 - **MarketPlus:** Kolay alışveriş imkanı sunan e-ticaret platformu.  
 - **QR Menü Plus:** Restoranlar için QR menü ve sipariş yönetim sistemi.  
 - **YemekPlus:** Restoranlar ve yemek siparişleri için kapsamlı platform.
-
----
-
-## Lisans
-
-[Buraya lisans bilgisi eklenebilir]
