@@ -21,7 +21,7 @@ Aşağıda Plus Group çatısı altında KKTC’ye özel geliştirdiğimiz başl
 - **MarketPlus**  
   Satıcılar ile alıcılar arasında kolay alışveriş imkanı sunan e-ticaret platformu (demo aşamasında).
 
-- **QR Menü Plus**  
+- **QRMenu Plus**  
   Restoranlar için QR menü ve sipariş yönetim sistemi (demo aşamasında).
 
 - **YemekPlus**  
