@@ -50,7 +50,7 @@ Gelişmiş araç listeleme ve yönetim özellikleri ile KKTC’de modern bir oto
 
 ## 🔗 İletişim
 
-Web sitesi: [galerimplus.com](http://www.galerimplus.com)
+Web sitesi: [galerimplus.com](http://www.plusgroupkibris.com)
 
 ---
 
