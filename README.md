@@ -1,4 +1,4 @@
-# Plus Group Kıbrıs (plusgroupkibris.com)
+# PlusGroup Kıbrıs (plusgroupkibris.com)
 
 Plus Group Kıbrıs, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) için özel dijital çözümler ve platformlar geliştiren bir teknoloji grubudur. KKTC’deki farklı sektörlerin ihtiyaçlarına yönelik entegre ve kullanıcı dostu uygulamalar sunar.
 
