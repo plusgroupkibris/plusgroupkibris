@@ -6,7 +6,7 @@ Plus Group Kıbrıs, Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) için özel dijital
 
 Aşağıda Plus Group çatısı altında KKTC’ye özel geliştirdiğimiz başlıca platformlar yer almaktadır:
 
-- **GalerimPlus (v1 Beta)**  
+- **GalerimPlus**  
   KKTC’de araba satış ilanları ve ilgili hizmetlerin yer aldığı kapsamlı araç galeri platformu.
 
 - **EmlakPlus**  
